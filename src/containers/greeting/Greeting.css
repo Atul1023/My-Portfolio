@@ -1,20 +1,19 @@
 .main {
   width: 90%;
-  padding: 20px 10px;
+  padding: 10px 10px;
   margin: 0px auto;
-  margin-top: 4rem;
 }
 .greet-main {
   width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
-  margin-top: 2rem;
 }
 
-.gretting-main {
-  width: 90%;
+.greeting-main {
+  width: 100%;
   padding: 20px 10px;
   margin: 0px auto;
+  margin-top: 60px;
 }
 
 .greeting-main {
@@ -31,16 +30,10 @@
 }
 
 .greeting-text {
-  margin-top: 80px;
-  font-size: 70px;
+  /* margin-top: 80px; */
+  font-size: 60px;
   line-height: 1.1;
   font-family: "Google Sans Bold";
-}
-
-.greeting-nickname {
-  font-size: 30px;
-  line-height: 0px;
-  font-family: "Google Sans Bold Italic";
 }
 
 .greeting-text-p {
@@ -53,6 +46,7 @@
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
+  margin-top: 50px;
 }
 
 /* Media Query */
@@ -70,7 +64,7 @@
   }
   .greeting-text {
     font-size: 30px;
-    margin-top: 0px;
+    margin-top: 40px;
     text-align: center;
   }
   .greeting-nickname {

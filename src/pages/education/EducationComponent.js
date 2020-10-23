@@ -9,12 +9,19 @@ import { Fade } from "react-reveal";
 
 class Education extends Component {
   render() {
+    // const theme = this.props.theme;
     return (
       <div className="education-main">
         <Header theme={this.props.theme} />
         <div className="basic-education">
           <Fade bottom duration={2000} distance="40px">
-            <div className="heading-div"></div>
+            <div className="heading-div">
+              <div className="heading-text-div">
+                {/* <h1 className="heading-text" style={{ color: theme.text }}>
+                  Education
+                </h1> */}
+              </div>
+            </div>
           </Fade>
           <Educations theme={this.props.theme} />
           <Certifications theme={this.props.theme} />

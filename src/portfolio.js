@@ -310,7 +310,7 @@ const experience = {
           duration: "10 July 2020 - 12 Oct 2020",
           location: "Work From Home",
           description:
-            "Worked on project of developing an application or rather a platform that takes care of all the meetings of its users in one place. My role was to develop, test and deploy the frontend part using Flutter and Dart.",
+            "Worked on project of developing a platform which takes care of all the meetings of its users in one place to experience effortless meetings with smart schedulings. My role was to develop, test and deploy the frontend part using Flutter and Dart. Overall I developed 16 responsive screens which are described in brief in the internship report on the dedicated repository on Github.",
           color: "#d11621",
         },
       ],

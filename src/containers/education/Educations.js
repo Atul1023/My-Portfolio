@@ -4,11 +4,11 @@ import DegreeCard from "../../components/degreeCard/DegreeCard.js";
 import { degrees } from "../../portfolio";
 import { Fade } from "react-reveal";
 
-class Educations extends Component {
+class Education extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <div className="main" id="educations">
+      <div className="main" id="education">
         <div className="educations-header-div">
           <Fade bottom duration={2000} distance="20px">
             <h1 className="educations-header" style={{ color: theme.text }}>
@@ -26,4 +26,4 @@ class Educations extends Component {
   }
 }
 
-export default Educations;
+export default Education;

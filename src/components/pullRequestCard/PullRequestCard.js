@@ -11,15 +11,15 @@ class PullRequestCard extends Component {
     if (pullRequest["state"] === "OPEN") {
       iconPR = {
         iconifyClass: "octicon:git-pull-request",
-        style: { color: "#28a745" },
+        style: { color: "#4BC0C0" },
       };
-      bgColor = "#dcffe4";
+      bgColor = "#d5f2f2";
     } else if (pullRequest["state"] === "MERGED") {
       iconPR = {
         iconifyClass: "octicon:git-merge",
-        style: { color: "#6f42c1" },
+        style: { color: "#36A2EB" },
       };
-      bgColor = "#f5f0ff";
+      bgColor = "#e0eff9";
     } else {
       iconPR = {
         iconifyClass: "octicon:git-pull-request",

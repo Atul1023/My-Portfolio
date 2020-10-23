@@ -15,8 +15,8 @@ class PullRequestChart extends Component {
             PullRequestData["merged"],
             PullRequestData["closed"],
           ],
-          backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
-          hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
+          backgroundColor: ["#4BC0C0", "#36A2EB", "#FF6384"],
+          hoverBackgroundColor: ["#4BC0C0dd", "#36A2EBdd", "#FF6384dd"],
         },
       ],
     };
@@ -28,6 +28,8 @@ class PullRequestChart extends Component {
         </Fade>
         <Doughnut
           data={data}
+          width={10}
+          height={2}
           options={{
             padding: "0",
             margin: "0",

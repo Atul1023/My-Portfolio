@@ -18,7 +18,6 @@ class OpensourceCharts extends Component {
         </div>
         <div className="os-charts-body-div">
           <PullRequestChart />
-          <IssueChart />
         </div>
       </div>
     );

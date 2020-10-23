@@ -205,7 +205,7 @@ const certifications = {
       subtitle: "- Angela Yu",
       logo_path: "appbrewery_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://drive.google.com/file/d/1Wm3_BW9Hr7ZFQQXtnxmSpImxBoipUZfN/view?usp=sharing",
       alt_name: "The App Brewery",
       color_code: "#F68E71",
     },

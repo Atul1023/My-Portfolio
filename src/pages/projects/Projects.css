@@ -99,8 +99,8 @@
 
   .repo-cards-div-main {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-top: 50px;
   }
 }

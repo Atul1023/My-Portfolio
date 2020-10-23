@@ -1,1 +1,76 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNjIwOTUzMjk=","name":"covid_19_tracker","createdAt":"2020-05-07T15:58:30Z","url":"https://github.com/Atul1023/covid_19_tracker","description":"App for tracking real-time Covid-19 updates across the world made using flutter.","isFork":false,"languages":[]},{"id":"MDEwOlJlcG9zaXRvcnkyNTkwODU4NDU=","name":"WordCloudPython","createdAt":"2020-04-26T17:00:43Z","url":"https://github.com/Atul1023/WordCloudPython","description":"Script for generating word clouds from any text file (Whatsapp_chat_export.txt used in template code)","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkyOTQyMjEzODY=","name":"robofriends","createdAt":"2020-09-09T20:24:34Z","url":"https://github.com/Atul1023/robofriends","description":"Tutorial app made using React.","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjAwMTI0NDE=","name":"mi_card_flutter","createdAt":"2020-04-29T18:41:17Z","url":"https://github.com/Atul1023/mi_card_flutter","description":"MI CARD made using flutter ","isFork":false,"languages":[{"name":"Java","iconifyClass":"logos-java"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNTkwODU4NDU=",
+      "name": "Word-Cloud-Python",
+      "createdAt": "2020-04-26T17:00:43Z",
+      "url": "https://github.com/Atul1023/Word-Cloud-Python",
+      "description": "Script for generating word clouds from any text file using Python.",
+      "isFork": false,
+      "languages": [{ "name": "Python", "iconifyClass": "logos-python" }]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjIwOTUzMjk=",
+      "name": "Covid-19-Tracker",
+      "createdAt": "2020-05-07T15:58:30Z",
+      "url": "https://github.com/Atul1023/Covid-19-Tracker",
+      "description": "App for tracking real-time Covid-19 updates across the world made using flutter.",
+      "isFork": false,
+      "languages": [
+        { "name": "Dart", "iconifyClass": "logos-dart" },
+        { "name": "Flutter", "iconifyClass": "logos-flutter" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDY3MjY3Nzc=",
+      "name": "Machine-Learning-Summer-Training-2020",
+      "createdAt": "2020-10-23T19:16:47Z",
+      "url": "https://github.com/Atul1023/Machine-Learning-Summer-Training-2020",
+      "description": "Projects completed during ML summer training on Data Analysis, Ensemble Learning and building various ML models.",
+      "isFork": false,
+      "languages": [
+        { "name": "Jupyter Notebook", "iconifyClass": "logos-jupyter" },
+        { "name": "Python", "iconifyClass": "logos-python" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyOTQyMjEzODY=",
+      "name": "Robofriends",
+      "createdAt": "2020-09-09T20:24:34Z",
+      "url": "https://github.com/Atul1023/Robofriends",
+      "description": "Responsive website to lay down dynamically generated cards which display data fetched from sample remote API.",
+      "isFork": false,
+      "languages": [
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDUzNzI5NDI=",
+      "name": "React-Navbar",
+      "createdAt": "2020-10-19T12:14:57Z",
+      "url": "https://github.com/Atul1023/React-Navbar",
+      "description": "Basic sample navigation bar made using react with support of routing.",
+      "isFork": false,
+      "languages": [
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDY0MjcxNDI=",
+      "name": "My-Portfolio",
+      "createdAt": "2020-10-22T18:33:24Z",
+      "url": "https://github.com/Atul1023/My-Portfolio",
+      "description": "Responsive portfolio website made using React, React-Bootstrap.",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    }
+  ]
+}

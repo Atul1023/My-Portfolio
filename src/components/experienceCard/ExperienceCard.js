@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ExperienceButton from "../experienceButton/ExperienceButton";
 import "./ExperienceCard.css";
 
 class ExperienceCard extends Component {
@@ -60,6 +61,22 @@ class ExperienceCard extends Component {
           >
             {experience["description"]}
           </p>
+          <div className="btn-div">
+            <ExperienceButton
+              text="Report"
+              newTab={true}
+              href="https://drive.google.com/file/d/17VFGIy8q6ji7jiLAEoWhJx79klGeQVHd/view?usp=sharing"
+              theme={theme}
+              experience={experience}
+            />
+            <ExperienceButton
+              text="Completion Letter"
+              newTab={true}
+              href="https://drive.google.com/file/d/1DJiW5HbwRuVFEFxnHfCXzrlKddx9uNrX/view?usp=sharing"
+              theme={theme}
+              experience={experience}
+            />
+          </div>
         </div>
       </div>
     );

@@ -29,7 +29,7 @@ class PullRequestChart extends Component {
         <Doughnut
           data={data}
           width={10}
-          height={2}
+          height={4}
           options={{
             padding: "0",
             margin: "0",

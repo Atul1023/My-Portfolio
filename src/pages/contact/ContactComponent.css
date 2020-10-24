@@ -1,65 +1,21 @@
 .contact-main {
+  margin-top: 80px;
   width: 100vw;
 }
 
 .basic-contact {
+  display: flex;
   margin-left: 5%;
   margin-right: 5%;
 }
 
-.contact-heading-div {
-  display: flex;
-}
-
-.blog-heading-div {
-  display: flex;
-}
-
-.address-heading-div {
-  display: flex;
-  margin-top: 80px;
-}
-
-.blog-heading-div > * {
-  flex: 1;
-}
-
-.contact-heading-div > * {
-  flex: 1;
-}
-
-.address-heading-div > * {
-  flex: 1;
-}
-
-.contact-heading-img-div {
-  align-items: center;
-  justify-content: center;
-}
-
-.blog-heading-img-div {
-  align-items: center;
-  justify-content: center;
-}
-
 .contact-heading-text-div {
-  text-align: center;
-}
-
-.blog-heading-text-div {
-  text-align: center;
-}
-
-.address-heading-text-div {
+  margin-left: 31rem;
   text-align: center;
 }
 
 .contact-heading-img-div > * {
-  max-width: 100%;
-  height: auto;
-}
-
-.blog-heading-img-div > * {
+  margin-left: 33rem;
   max-width: 100%;
   height: auto;
 }
@@ -73,32 +29,7 @@
   margin-top: 60px;
 }
 
-.blog-heading-text {
-  font-size: 56px;
-  font-weight: 400;
-  font-family: "Google Sans Medium";
-  line-height: 1.1;
-  text-align: center;
-  margin-top: 40px;
-}
-
-.address-heading-text {
-  font-size: 30px;
-  font-family: "Google Sans Regular";
-  text-align: center;
-  margin-bottom: 10px;
-}
-
 .contact-header-detail-text {
-  font-size: 20px;
-  line-height: 30px;
-  margin-top: 0px;
-  margin-left: 20px;
-  margin-right: 20px;
-  font-family: "Google Sans Medium";
-}
-
-.blog-header-detail-text {
   font-size: 20px;
   line-height: 30px;
   margin-top: 0px;
@@ -111,19 +42,6 @@
   width: 100%;
   display: flex;
   justify-content: center;
-}
-
-.blogsite-btn-div {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.address-btn-div {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-top: 0;
 }
 
 @media (max-width: 1380px) {
@@ -139,6 +57,16 @@
 }
 
 @media (max-width: 768px) {
+  .contact-heading-text-div {
+    margin-top: 20px;
+    margin-left: 2.4rem;
+  }
+  .contact-heading-img-div > * {
+    margin-left: 4.4rem;
+    max-width: 100%;
+    height: auto;
+  }
+
   .contact-heading-text {
     font-size: 30px;
     margin-top: 0px;

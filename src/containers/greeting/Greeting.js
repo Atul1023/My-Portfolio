@@ -34,9 +34,9 @@ export default function Greeting(props) {
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="Get in touch!"
+                  text="Check out my resume!"
                   newTab={true}
-                  href="mailto:07atul1023@gmail.com"
+                  href="https://drive.google.com/file/d/15vWAY_2RXzXNn9eDfr1dTVkVP3QAy3Zb/view?usp=sharing"
                   theme={theme}
                   className="portfolio-repo-btn"
                 />

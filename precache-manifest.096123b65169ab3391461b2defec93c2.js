@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcab68a5a0c6976dc5c39245af011887",
+    "revision": "1d9b53048d74b6a2f61b117bc86e8434",
     "url": "/index.html"
   },
   {
-    "revision": "3a2021fa5a7d87eb4da1",
-    "url": "/static/css/main.fd5da953.chunk.css"
+    "revision": "c99b4e20b04fac6c2d40",
+    "url": "/static/css/main.d607d64a.chunk.css"
   },
   {
-    "revision": "77e082060caa8e95a743",
-    "url": "/static/js/2.45ea9f57.chunk.js"
+    "revision": "7db366af5521d73ae131",
+    "url": "/static/js/2.322a2225.chunk.js"
   },
   {
-    "revision": "3e0b9cb3ef2346649e08f2f4c4f06b82",
-    "url": "/static/js/2.45ea9f57.chunk.js.LICENSE.txt"
+    "revision": "f8a6a330026923fca0e950d9287123a5",
+    "url": "/static/js/2.322a2225.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a2021fa5a7d87eb4da1",
-    "url": "/static/js/main.a0796195.chunk.js"
+    "revision": "c99b4e20b04fac6c2d40",
+    "url": "/static/js/main.cb5e2229.chunk.js"
   },
   {
     "revision": "8a9f1a624234ff07ad5f",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
-    "url": "/static/media/animated_logo.52e0714e.svg"
+    "revision": "a633be2faf9b129259563d65d0aa1333",
+    "url": "/static/media/animated_logo.a633be2f.svg"
   },
   {
     "revision": "47757c6688decf76a55a08df863d17b5",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f5dad5b4a3a1e3041940531fe82bdb38",
     "url": "/static/media/google_logo.f5dad5b4.png"
+  },
+  {
+    "revision": "a6b77aad7a43152ed9618df02a2e6167",
+    "url": "/static/media/highradius_logo.a6b77aad.png"
   },
   {
     "revision": "ec4252cf06afc04bd5c93a24da214897",

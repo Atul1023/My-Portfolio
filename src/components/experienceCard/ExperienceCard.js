@@ -65,7 +65,7 @@ class ExperienceCard extends Component {
             <ExperienceButton
               text="Report"
               newTab={true}
-              href="https://drive.google.com/file/d/17VFGIy8q6ji7jiLAEoWhJx79klGeQVHd/view?usp=sharing"
+              href={experience["report_link"]}
               theme={theme}
               experience={experience}
             />

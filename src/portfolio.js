@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/ar_atul07/",
+    link: "",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -95,6 +95,13 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
+          {
+            skillName: "Java",
+            fontAwesomeClassname: "logos-java",
+            style: {
+              backgroundColor: "transparent",
+            },
+        },
       ],
     },
     {
@@ -111,10 +118,7 @@ const skills = {
         },
         {
           skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
+          fontAwesomeClassname: "logos-react",
         },
         {
           skillName: "BootStrap",
@@ -123,6 +127,22 @@ const skills = {
         {
           skillName: "Flutter",
           fontAwesomeClassname: "logos-flutter",
+        },
+        {
+          skillName: "Spring",
+          fontAwesomeClassname: "logos-spring",
+        },
+        {
+          skillName: "Struts",
+          fontAwesomeClassname: "logos-struts",
+        },
+        {
+          skillName: "Hibernate",
+          fontAwesomeClassname: "logos-hibernate",
+        },
+        {
+          skillName: "Material UI",
+          fontAwesomeClassname: "logos-material-ui",
         },
       ],
     },
@@ -246,7 +266,7 @@ const experience = {
       title: "Internship",
       experiences: [
         {
-          title: "Frontend Developer",
+          title: "Frontend Developer Intern",
           company: "Aztlan Pvt. Ltd.",
           company_url: "https://www.aztlan.in/",
           logo_path: "aztlan_logo.png",
@@ -254,6 +274,21 @@ const experience = {
           location: "Work From Home",
           description:
             "Worked on project of developing a platform which takes care of all the meetings of its users in one place to experience effortless meetings with smart schedulings. My role was to develop, test and deploy the frontend part using Flutter and Dart. Overall I developed 16 responsive screens which are described in brief in the internship report on the dedicated repository on Github.",
+          report_link: "https://drive.google.com/file/d/17VFGIy8q6ji7jiLAEoWhJx79klGeQVHd/view?usp=sharing",
+          certificate_link: "",
+          color: "#0C66FF",
+        },
+        {
+          title: "Product Engineer Intern",
+          company: "HighRadius Technologies Pvt. Ltd.",
+          company_url: "https://www.highradius.com/",
+          logo_path: "highradius_logo.png",
+          duration: "January 2020 - March 2020",
+          location: "Work From Home",
+          description:
+            "Built AI models using ML Algorithms which involved data Pre-processing & EDA, Feature Engineering & Feature Selection. - Worked with JAVA frameworks like Struts, Spring and Hibernate for making APIs and connection with the DB (MySQL). - Built responsive UI using ReactJS.",
+          report_link: "https://drive.google.com/file/d/1GNkB1lgvVWqzfYFKeyVIgAST66kb1OsC/view?usp=sharing",
+          certificate_link: "https://drive.google.com/file/d/1GNkB1lgvVWqzfYFKeyVIgAST66kb1OsC/view?usp=sharing",
           color: "#0C66FF",
         },
       ],
